@@ -7,7 +7,7 @@ BinaryGap (Easy)
 
 Lesson 2: Arrays
 ----------------
-CyclicRotation (Easy)
+CyclicRotation (Easy) ✅
 * Rotate an array to the right by a given number of steps.
 
 OddOccurrencesInArray (Easy)
@@ -15,7 +15,7 @@ OddOccurrencesInArray (Easy)
 
 Lesson 3: Time Complexity
 -------------------------
-FrogJmp (Easy)
+FrogJmp (Easy) ✅
 * Count minimal number of jumps from position X to Y.
 
 PermMissingElem (Easy)
