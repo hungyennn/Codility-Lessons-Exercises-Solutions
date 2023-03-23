@@ -1,5 +1,7 @@
 # My solutions to  Codility's online lessons tests.
 
+I will update this repository regularly.
+
 Lesson 1: Iterations 
 --------------------
 BinaryGap (Easy)
