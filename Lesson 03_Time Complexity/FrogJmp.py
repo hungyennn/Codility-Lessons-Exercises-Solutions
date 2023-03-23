@@ -28,6 +28,8 @@ Write an efficient algorithm for the following assumptions:
     X, Y and D are integers within the range [1..1,000,000,000];
     X ≤ Y.
 """
+# Total Score: 100%
+# Detected time complexity: O(1)
 
 def solution(X, Y, D):
     length = Y - X
