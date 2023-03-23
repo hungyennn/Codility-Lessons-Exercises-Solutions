@@ -4,7 +4,7 @@ I will update this repository regularly.
 
 Lesson 1: Iterations 
 --------------------
-BinaryGap (Easy)
+BinaryGap (Easy) ✅
 * Find longest sequence of zeros in binary representation of an integer.
 
 Lesson 2: Arrays
