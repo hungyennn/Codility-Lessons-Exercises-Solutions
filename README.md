@@ -43,7 +43,7 @@ MaxCounters (Medium) ✅
 
 Lesson 5: Prefix Sums
 --------------------
-PassingCars (Easy)
+PassingCars (Easy) ✅
 * Count the number of passing cars on the road.
 
 CountDiv (Medium)
