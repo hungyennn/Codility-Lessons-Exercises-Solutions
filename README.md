@@ -87,7 +87,7 @@ StoneWall (Easy)
 
 Lesson 8: Leader
 ----------------
-Dominator (Easy)
+Dominator (Easy) ✅
 * Find an index of an array such that its value occurs at more than half of indices in the array. 
 
 EquiLeader (Easy)
