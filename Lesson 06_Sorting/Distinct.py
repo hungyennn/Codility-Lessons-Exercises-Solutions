@@ -30,9 +30,10 @@ def solution(A):
     
     return len(ls)
 
-# SOl2 - Total Score: 100%
-# Detected time complexity: O(N*log(N)) or O(N)
 
+
+# SOL2 - Total Score: 100%
+# Detected time complexity: O(N*log(N)) or O(N)
 def solution(A):
     if len(A) > 100000:
         return -1
