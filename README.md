@@ -58,7 +58,7 @@ GenomicRangeQuery (Medium)
 
 Lesson 6: Sorting
 -----------------
-Distinct (Easy)
+Distinct (Easy) ✅
 * Compute number of distinct values in an array.
 
 MaxProductOfThree (Easy)
