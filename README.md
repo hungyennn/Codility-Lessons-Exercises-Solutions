@@ -96,7 +96,7 @@ EquiLeader (Easy)
 
 Lesson 9: Maximum Slice Problem
 -------------------------------
-MaxProfit (Easy)
+MaxProfit (Easy) ✅
 * Given a log of stock prices compute the maximum possible earning.
 
 MaxSliceSum (Easy)
