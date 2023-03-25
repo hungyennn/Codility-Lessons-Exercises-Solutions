@@ -73,7 +73,7 @@ NumberOfDiscIntersections (Medium)
 
 Lesson 7: Stacks and Queues
 ---------------------------
-Brackets (Easy)
+Brackets (Easy) ✅
 * Determine whether given string of parentheses is properly nested.
 
 Fish (Easy)
