@@ -110,7 +110,7 @@ Lesson 10: Prime and Composite Numbers
 MinPerimeterRectangle (Easy)
 * Find the minimal perimeter of any rectangle whose area equals N.
 
-CountFactors (Easy)
+CountFactors (Easy) ✅
 * Count factors of a give number n.
 
 Peaks (Medium)
