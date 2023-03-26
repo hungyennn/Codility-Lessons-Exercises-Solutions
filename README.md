@@ -1,7 +1,7 @@
 # My solutions to  Codility's online lessons tests.
 
 I will update this repository regularly. <br>
-Most of them are lessons task, and some are exercises tasks (Exercises folder).
+Most of them are lessons task, and some are exercises tasks (in Exercises folder).
 
 Lesson 1: Iterations 
 --------------------
