@@ -125,7 +125,7 @@ Lesson 11: Sieve of Eratosthenes
 CountNonDivisible (Medium)
 * Calculate the number of elements of an array that are not divisors of each element.
 
-CountSemiprimes (Medium)
+CountSemiprimes (Medium) ✅
 * Count the semiprime numbers in the given range [a..b].
 
 
