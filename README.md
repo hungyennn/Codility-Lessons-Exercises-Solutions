@@ -1,15 +1,16 @@
 # My solutions to  Codility's online lessons tests.
 
 I will update this repository regularly.
+Most of them are lessons task, and some are exercises tasks ().
 
 Lesson 1: Iterations 
 --------------------
-BinaryGap (Easy) ✅
+BinaryGap (Easy) 
 * Find longest sequence of zeros in binary representation of an integer.
 
 Lesson 2: Arrays
 ----------------
-CyclicRotation (Easy) ✅
+CyclicRotation (Easy) 
 * Rotate an array to the right by a given number of steps.
 
 OddOccurrencesInArray (Easy)
@@ -17,7 +18,7 @@ OddOccurrencesInArray (Easy)
 
 Lesson 3: Time Complexity
 -------------------------
-FrogJmp (Easy) ✅
+FrogJmp (Easy) 
 * Count minimal number of jumps from position X to Y.
 
 PermMissingElem (Easy)
@@ -37,13 +38,13 @@ PermCheck (Easy)
 MissingInteger (Medium)
 * Find the minimal positive integer not occuring in a given sequence.
 
-MaxCounters (Medium) ✅
+MaxCounters (Medium) 
 * Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 
 
 Lesson 5: Prefix Sums
 --------------------
-PassingCars (Easy) ✅
+PassingCars (Easy) 
 * Count the number of passing cars on the road.
 
 CountDiv (Medium)
@@ -58,7 +59,7 @@ GenomicRangeQuery (Medium)
 
 Lesson 6: Sorting
 -----------------
-Distinct (Easy) ✅
+Distinct (Easy) 
 * Compute number of distinct values in an array.
 
 MaxProductOfThree (Easy)
@@ -73,7 +74,7 @@ NumberOfDiscIntersections (Medium)
 
 Lesson 7: Stacks and Queues
 ---------------------------
-Brackets (Easy) ✅
+Brackets (Easy) 
 * Determine whether given string of parentheses is properly nested.
 
 Fish (Easy)
@@ -87,7 +88,7 @@ StoneWall (Easy)
 
 Lesson 8: Leader
 ----------------
-Dominator (Easy) ✅
+Dominator (Easy) 
 * Find an index of an array such that its value occurs at more than half of indices in the array. 
 
 EquiLeader (Easy)
@@ -96,7 +97,7 @@ EquiLeader (Easy)
 
 Lesson 9: Maximum Slice Problem
 -------------------------------
-MaxProfit (Easy) ✅
+MaxProfit (Easy) 
 * Given a log of stock prices compute the maximum possible earning.
 
 MaxSliceSum (Easy)
@@ -110,7 +111,7 @@ Lesson 10: Prime and Composite Numbers
 MinPerimeterRectangle (Easy)
 * Find the minimal perimeter of any rectangle whose area equals N.
 
-CountFactors (Easy) ✅
+CountFactors (Easy) 
 * Count factors of a give number n.
 
 Peaks (Medium)
@@ -125,7 +126,7 @@ Lesson 11: Sieve of Eratosthenes
 CountNonDivisible (Medium)
 * Calculate the number of elements of an array that are not divisors of each element.
 
-CountSemiprimes (Medium) ✅
+CountSemiprimes (Medium) 
 * Count the semiprime numbers in the given range [a..b].
 
 
