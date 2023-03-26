@@ -11,20 +11,17 @@ For example, the following array A:
   A[4] = 2
   A[5] = 10
 
-  contains two unique numbers (5 and 2).
+contains two unique numbers (5 and 2).
 
-You should find the first unique number in A. In other words, find the unique number with 
-the lowest position in A.
+You should find the first unique number in A. In other words, find the unique number with the lowest position in A.
 
-For above example, 5 is in second position (because A[2] = 5) and 2 is in fourth position (because A[4] = 2).
- So, the first unique number is 5.
+For above example, 5 is in second position (because A[2] = 5) and 2 is in fourth position (because A[4] = 2). So, the first unique number is 5.
 
 Write a function:
 
     def solution(A)
 
-that, given a non-empty array A of N integers, returns the first unique number in A. 
-The function should return −1 if there are no unique numbers in A.
+that, given a non-empty array A of N integers, returns the first unique number in A. The function should return −1 if there are no unique numbers in A.
 
 For example, given:
 
