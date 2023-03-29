@@ -39,10 +39,7 @@ Write an efficient algorithm for the following assumptions:
 
 def solution(A): 
     from collections import Counter
-
     counter = Counter(A)
- 
-
     for i in dict(counter):
         if counter[i] % 2 != 0: 
             return i
