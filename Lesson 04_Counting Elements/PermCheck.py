@@ -55,7 +55,7 @@ def solution(A):
     # Implement your solution here
     from collections import Counter
     counter = Counter(A)
-    if len(counter) != max(counter): return 0 # if max = 4, len = 4  
+    if len(counter) != max(counter): return 0 # if max = 4, len = 4 (A should be [1, 2, 3, 4])
 
     for i, v in dict(counter).items():
         if v > 1: return 0 # assure that every number appears 1 time 
